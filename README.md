@@ -102,10 +102,12 @@ OPENROUTER_API_KEY=your_api_key
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
-<img width="1920" height="1080" alt="first png" src="https://github.com/user-attachments/assets/7fdd9563-04b6-4bf1-953d-7681b71760fc" />
+### 🖥️ Chat Interface
 
+<p align="center">
+  <img src="screenshots/first.png" width="900">
+</p>
 
 
 
